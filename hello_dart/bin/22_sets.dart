@@ -2,7 +2,7 @@ void main(){
 
   Set<int> set1 = Set();
 
-  Set<String> set2 = Set();
+  // Set<String> set2 = Set();
 
   set1.add(1);
   set1.add(2);
